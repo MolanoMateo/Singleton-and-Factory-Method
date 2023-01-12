@@ -1,0 +1,15 @@
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioSingleton\EjercicioSingleton\bin\Debug\net6.0\EjercicioSingleton.exe
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioSingleton\EjercicioSingleton\bin\Debug\net6.0\EjercicioSingleton.deps.json
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioSingleton\EjercicioSingleton\bin\Debug\net6.0\EjercicioSingleton.runtimeconfig.json
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioSingleton\EjercicioSingleton\bin\Debug\net6.0\EjercicioSingleton.dll
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioSingleton\EjercicioSingleton\bin\Debug\net6.0\EjercicioSingleton.pdb
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioSingleton\EjercicioSingleton\obj\Debug\net6.0\EjercicioSingleton.csproj.AssemblyReference.cache
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioSingleton\EjercicioSingleton\obj\Debug\net6.0\EjercicioSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioSingleton\EjercicioSingleton\obj\Debug\net6.0\EjercicioSingleton.AssemblyInfoInputs.cache
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioSingleton\EjercicioSingleton\obj\Debug\net6.0\EjercicioSingleton.AssemblyInfo.cs
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioSingleton\EjercicioSingleton\obj\Debug\net6.0\EjercicioSingleton.csproj.CoreCompileInputs.cache
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioSingleton\EjercicioSingleton\obj\Debug\net6.0\EjercicioSingleton.dll
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioSingleton\EjercicioSingleton\obj\Debug\net6.0\refint\EjercicioSingleton.dll
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioSingleton\EjercicioSingleton\obj\Debug\net6.0\EjercicioSingleton.pdb
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioSingleton\EjercicioSingleton\obj\Debug\net6.0\EjercicioSingleton.genruntimeconfig.cache
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioSingleton\EjercicioSingleton\obj\Debug\net6.0\ref\EjercicioSingleton.dll
