@@ -1,0 +1,15 @@
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioFactoryMethod\EjercicioFactoryMethod\obj\Debug\net6.0\EjercicioFactoryMethod.csproj.AssemblyReference.cache
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioFactoryMethod\EjercicioFactoryMethod\obj\Debug\net6.0\EjercicioFactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioFactoryMethod\EjercicioFactoryMethod\obj\Debug\net6.0\EjercicioFactoryMethod.AssemblyInfoInputs.cache
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioFactoryMethod\EjercicioFactoryMethod\obj\Debug\net6.0\EjercicioFactoryMethod.AssemblyInfo.cs
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioFactoryMethod\EjercicioFactoryMethod\obj\Debug\net6.0\EjercicioFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioFactoryMethod\EjercicioFactoryMethod\bin\Debug\net6.0\EjercicioFactoryMethod.exe
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioFactoryMethod\EjercicioFactoryMethod\bin\Debug\net6.0\EjercicioFactoryMethod.deps.json
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioFactoryMethod\EjercicioFactoryMethod\bin\Debug\net6.0\EjercicioFactoryMethod.runtimeconfig.json
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioFactoryMethod\EjercicioFactoryMethod\bin\Debug\net6.0\EjercicioFactoryMethod.dll
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioFactoryMethod\EjercicioFactoryMethod\bin\Debug\net6.0\EjercicioFactoryMethod.pdb
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioFactoryMethod\EjercicioFactoryMethod\obj\Debug\net6.0\EjercicioFactoryMethod.dll
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioFactoryMethod\EjercicioFactoryMethod\obj\Debug\net6.0\refint\EjercicioFactoryMethod.dll
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioFactoryMethod\EjercicioFactoryMethod\obj\Debug\net6.0\EjercicioFactoryMethod.pdb
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioFactoryMethod\EjercicioFactoryMethod\obj\Debug\net6.0\EjercicioFactoryMethod.genruntimeconfig.cache
+C:\Users\ivana\OneDrive\Escritorio\Proyectos Progra\EjercicioFactoryMethod\EjercicioFactoryMethod\obj\Debug\net6.0\ref\EjercicioFactoryMethod.dll
